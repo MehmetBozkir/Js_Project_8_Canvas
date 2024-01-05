@@ -8,7 +8,7 @@
   Features 
   ------------ 
 
-  A working model that combines js, css and html
+  A working model that combines js, css and html.
 
   
   Screen Shot 
